@@ -14,6 +14,6 @@ namespace WebApplication1.Models
         public int ApuestaGolesSeleccion2 { get; set; }
 
         public int ApuestaPartidoId { get; set; }
-
+        public int ApuestaGolesSeleccion1 {get; set}
     }
 }
